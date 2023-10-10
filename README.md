@@ -1,3 +1,2 @@
-# Machine-Learning
-Linear Regression
-Logistic Regression
+# The Spark Foundation
+Data Science Internship
