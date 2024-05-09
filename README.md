@@ -1,2 +1,2 @@
-**The Spark Foundation**
-*Data Science Internship
+# **The Spark Foundation**
+Data Science Internship
